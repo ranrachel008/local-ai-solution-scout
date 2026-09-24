@@ -2,6 +2,12 @@
 
 **Find what already works. Copy the setup. Let local AI do the rest.**
 
+## Download Windows Beta
+
+**[Click here to download Ornith Solution Scout v0.1.0](https://github.com/ranrachel008/local-ai-solution-scout/releases/download/v0.1.0-beta/Ornith-Solution-Scout-0.1.0.zip)**
+
+[Open the Releases page](https://github.com/ranrachel008/local-ai-solution-scout/releases/tag/v0.1.0-beta)
+
 Local AI Solution Scout helps beginners find proven software setups and reproduce them on their own computer.
 
 Instead of asking AI to invent an installation method from scratch, it looks for existing working solutions, checks the sources, and helps local AI follow the proven setup.
