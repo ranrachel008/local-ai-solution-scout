@@ -1,5 +1,7 @@
 # Local AI Solution Scout
 
+**Official website / 官方網站：** [Ran AI](https://ran-local-ai-scout.benzhiyanjiu.chatgpt.site)
+
 **Find what already works. Copy the setup. Let local AI do the rest.**
 
 ## Download Windows Beta
